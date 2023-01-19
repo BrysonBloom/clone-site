@@ -6,6 +6,19 @@
 
 .map-pic{
     background-position: top right;
-    height: 10em;
+    height: 14em;
     background-image: url(https://mlkxyxpy8xfd.i.optimole.com/75nxxnA.6hkD~2e7ef/w:930/h:590/q:100/https://faroutride.com/wp-content/uploads/2017/01/Map.jpg);
+}
+
+.bg-blue{
+    background-color: #469ae0
+}
+
+.foot-note{
+    font-size: x-small;
+}
+
+.small-icon{
+    max-width: 20px;
+    max-height: 15px;
 }
